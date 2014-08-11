@@ -25,3 +25,9 @@
 * 17/11: Recuperatorio dentro de cursada
 * 24/11: Feriado
 * 01/12: Recuperatorio fuera de cursada
+
+## Grupo de TP
+
+* David Litvak - david.litvakb@gmail.com
+* Rodrigo Alfonso - rodrigo.s.alfonso@gmail.com
+* Nicolas Migliano - nicolas.migliano@gmail.com
