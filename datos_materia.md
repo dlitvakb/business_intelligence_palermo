@@ -30,4 +30,5 @@
 
 * David Litvak - david.litvakb@gmail.com
 * Rodrigo Alfonso - rodrigo.s.alfonso@gmail.com
-* Nicolas Migliano - nicolas.migliano@gmail.com
+* Ivan Garea - garea.ivan@gmail.com
+* Leandro Romero - articulo1441@gmail.com
