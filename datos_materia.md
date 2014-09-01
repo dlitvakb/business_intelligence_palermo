@@ -11,7 +11,7 @@
 * 11/08: El modelo Multidimensional
 * 18/08: Feriado
 * 25/08: Conceptos Avanzados
-* 02/09: Arquitectura
+* 01/09: Arquitectura
 * 08/09: Situacion Actual
 * 15/09: Practica Parcial
 * 22/09: Introduccion DM - Tecnicas de Medicion
