@@ -12,3 +12,9 @@
 
 * Repaso clase anterior
 * Practica ejercicios mas avanzados
+
+# Clase 4
+
+* Cubos
+* Arquitectura
+* ODS
