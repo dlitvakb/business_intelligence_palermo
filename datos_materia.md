@@ -14,7 +14,7 @@
 * 01/09: Arquitectura
 * 08/09: Situacion Actual
 * 15/09: Practica Parcial
-* 22/09: Introduccion DM - Tecnicas de Medicion
+* 22/09: Introduccion DM - Tecnicas de Medicion - Entrega TP (Data Warehouse)
 * 29/09: Primer Parcial
 * 06/10: Arbol de Decision - Cluster
 * 13/10: Feriado + Semana de Finales
