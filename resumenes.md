@@ -18,3 +18,8 @@
 * Cubos
 * Arquitectura
 * ODS
+
+# Clase 5
+
+* Tratamiento de Datos (Datos Incompletos/Con Ruido/Inconsistentes/Excesivos)
+* Situacion Actual (Proposito y Necesidad de DW)
