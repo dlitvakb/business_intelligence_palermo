@@ -1,0 +1,15 @@
+Fecha,Cuenta,TipoMovimiento,Importe,Sucursal,Usuario
+1012008,1,Deposito,100,BsAs,curly
+1012008,1,Extraccion,100,BsAs,curly
+1012008,2,Deposito,200,Cordoba,larry
+1012008,2,Extraccion,100,StaFe,moe
+1012008,3,Deposito,125,BsAs,curly
+2012008,6,Extraccion,120,StaFe,moe
+2012008,7,Transferencia,250,StaFe,moe
+2012008,7,Deposito,250,StaFe,moe
+2012008,8,Extraccion,500,StaFe,larry
+2012008,9,Deposito,150,BsAs,curly
+2012008,9,Transferencia,200,BsAs,curly
+2012008,2,Extraccion,200,StaFe,curly
+2012008,3,Deposito,100,StaFe,moe
+2012008,1,Transferencia,20,StaFe,curly

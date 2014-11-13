@@ -1,0 +1,25 @@
+KM Hasta,GNC,Aditivo,Aceite,Recomendacion
+50000,si,no,sintetico,R15000
+50000,si,no,semi-sintetico,R10000
+50000,si,si,sintetico,R15000
+50000,si,si,semi-sintetico,R5000
+50000,no,no,sintetico,R15000
+50000,no,no,semi-sintetico,R10000
+50000,no,si,sintetico,R15000
+50000,no,si,semi-sintetico,R5000
+100000,si,no,sintetico,R15000
+100000,si,no,semi-sintetico,R10000
+100000,si,si,sintetico,R15000
+100000,si,si,semi-sintetico,R5000
+100000,no,no,sintetico,R15000
+100000,no,no,semi-sintetico,R10000
+100000,no,si,sintetico,R15000
+100000,no,si,semi-sintetico,R15000
+150000,si,no,sintetico,R15000
+150000,si,no,semi-sintetico,R15000
+150000,si,si,sintetico,R15000
+150000,si,si,semi-sintetico,R5000
+150000,no,no,sintetico,R15000
+150000,no,no,semi-sintetico,R10000
+150000,no,si,sintetico,R15000
+150000,no,si,semi-sintetico,R15000

@@ -23,3 +23,15 @@
 
 * Tratamiento de Datos (Datos Incompletos/Con Ruido/Inconsistentes/Excesivos)
 * Situacion Actual (Proposito y Necesidad de DW)
+
+# Clase 8
+
+* Data Mining
+* Canasta de Mercado (Introduccion)
+* Confianza/Soporte/LIFT
+
+# Clase 9
+
+* Arboles de Decision
+* Cluster
+* Canasta de Mercado

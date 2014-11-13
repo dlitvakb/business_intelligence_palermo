@@ -1,0 +1,15 @@
+Cielo,Temperatura,Marea,Viento,Pescar
+Soleado,caluroso,alta,debil,No
+Soleado,caluroso,alta,fuerte,No
+nublado,caluroso,alta,debil,Si
+lluvioso,templado,alta,debil,Si
+lluvioso,frio,Normal,debil,Si
+lluvioso,frio,Normal,fuerte,No
+nublado,frio,Normal,fuerte,Si
+Soleado,templado,alta,debil,No
+Soleado,frio,Normal,debil,Si
+lluvioso,templado,Normal,debil,Si
+Soleado,templado,Normal,fuerte,Si
+nublado,templado,alta,fuerte,Si
+nublado,caluroso,Normal,debil,Si
+lluvioso,templado,alta,fuerte,No
