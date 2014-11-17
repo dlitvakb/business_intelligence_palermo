@@ -26,26 +26,9 @@
           <h1 class="page-header">Dashboard</h1>
 
           <div class="row">
-            <div class="col-xs-6 col-sm-3 placeholder">
-              <div id="chart-ventas-brutas"></div>
-              <h4>Ventas Brutas</h4>
-              <span class="text-muted">2011</span>
-            </div>
-            <div class="col-xs-6 col-sm-3 placeholder">
-              <div id="chart-ventas-netas"></div>
-              <h4>Ventas Netas</h4>
-              <span class="text-muted">2011</span>
-            </div>
-            <div class="col-xs-6 col-sm-3 placeholder">
-              <div id="chart-ventas-cantidad"></div>
-              <h4>Cantidad Ventas</h4>
-              <span class="text-muted">2011</span>
-            </div>
-            <div class="col-xs-6 col-sm-3 placeholder">
-              <div id="chart-costo"></div>
-              <h4>Costo Total</h4>
-              <span class="text-muted">2011</span>
-            </div>
+            <h2>Medidas Por Año <span id="anio"></span></h2>
+            <div class="btn-group col-md-offset-10" id="year-buttons" role="group"></div>
+            <div id="chart-medidas-anio"></div>
           </div>
 
           <hr>
@@ -65,31 +48,14 @@
 
           <h2 class="sub-header">Pivot Data</h2>
           <div class="table-responsive">
-            <table class="table table-striped">
+            <table>
               <thead>
                 <tr>
-                  <th>#</th>
-                  <th>Header</th>
-                  <th>Header</th>
-                  <th>Header</th>
-                  <th>Header</th>
                 </tr>
               </thead>
               <tbody>
-              <tr>
-                <td>1,001</td>
-                <td>Lorem</td>
-                <td>ipsum</td>
-                <td>dolor</td>
-                <td>sit</td>
-              </tr>
-              <tr>
-                <td>1,002</td>
-                <td>amet</td>
-                <td>consectetur</td>
-                <td>adipiscing</td>
-                <td>elit</td>
-              </tr>
+                <tr id="pivot-body">
+                </tr>
               </tbody>
             </table>
           </div>
